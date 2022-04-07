@@ -1,0 +1,14 @@
+export {default as poster1} from '../assets/images/poster1.jpg';
+export {default as poster2} from '../assets/images/poster2.jpg';
+export {default as poster3} from '../assets/images/poster3.jpg';
+export {default as poster4} from '../assets/images/poster4.jpg';
+export {default as poster5} from '../assets/images/poster5.jpg';
+export {default as poster6} from '../assets/images/poster6.jpg';
+export {default as poster7} from '../assets/images/poster7.jpg';
+export {default as poster8} from '../assets/images/poster8.jpg';
+export {default as poster9} from '../assets/images/poster9.jpg';
+export {default as placeHolder} from '../assets/images/placeholder_for_missing_posters.png';
+export {default as navBar} from '../assets/images/nav_bar.png';
+export {default as back} from '../assets/images/Back.png';
+export {default as search} from '../assets/images/search.png';
+export {default as close} from '../assets/images/close.png';
